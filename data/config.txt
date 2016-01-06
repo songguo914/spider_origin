@@ -1,0 +1,2 @@
+path:D:\test.txt
+url:https://www.sogou.com/
