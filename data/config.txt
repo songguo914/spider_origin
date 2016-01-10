@@ -1,2 +1,2 @@
-path:D:\test.txt
+path:F:\spider_origin\test.txt
 url:https://www.sogou.com/
